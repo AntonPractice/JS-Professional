@@ -1,0 +1,23 @@
+{
+  "name": "js-professional",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/AntonPractice/JS-Professional#readme",
+  "bugs": {
+    "url": "https://github.com/AntonPractice/JS-Professional/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonPractice/JS-Professional.git"
+  },
+  "license": "ISC",
+  "author": "Khaustov",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "assert": "^2.1.0"
+  }
+}
